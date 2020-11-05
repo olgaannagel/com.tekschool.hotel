@@ -6,6 +6,8 @@ import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 
+import com.beust.jcommander.Parameter;
+
 import core.Base;
 import pageObj.HotelLoginPageObj;
 
