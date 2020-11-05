@@ -1,0 +1,7 @@
+2020-11-05 14:03:12,328 [main] INFO logger_File - Start of Execution
+2020-11-05 14:03:22,247 [main] INFO logger_File - Browser opened succssefully
+2020-11-05 14:03:22,255 [main] INFO logger_File - Test Execution Started
+2020-11-05 14:03:24,492 [main] INFO logger_File - Test was passed successfully
+2020-11-05 14:03:24,493 [main] INFO logger_File - method name: loginToHotel
+2020-11-05 14:03:25,264 [main] INFO logger_File - Browser close
+2020-11-05 14:03:25,299 [main] INFO logger_File - End of Execution
